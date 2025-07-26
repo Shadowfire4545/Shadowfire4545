@@ -1,3 +1,4 @@
+
 <h1 align="center">Hola 👋, soy Santiago Ariel</h1>
 <h3 align="center">Desarrollador Full Stack | Técnico en Desarrollo de Software</h3>
 
@@ -19,7 +20,15 @@
 ### ⚙️ Tecnologías y herramientas que domino
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,react,vite,tailwind,nodejs,prisma,postgres,vercel,railway,cloudinary,figma,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,cs,cpp,c,py,nestjs,react,nextjs,vite,tailwind,nodejs,prisma,postgres,mysql,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=vercel,railway,cloudinary,figma,git,github,vscode,visualstudio,postman,netlify" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NetBeans_IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/PrimeNG-3F51B5?style=for-the-badge&logo=prime&logoColor=white" />
 </p>
 
 ---
