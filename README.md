@@ -20,24 +20,16 @@
 ### ⚙️ Tecnologías y herramientas que domino
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,cs,cpp,c,py,nestjs,react,nextjs,vite,tailwind,nodejs,prisma,postgres,mysql,html,css" /><br/>
-  <img src="https://skillicons.dev/icons?i=vercel,railway,cloudinary,figma,git,github,vscode,visualstudio,postman,netlify" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,cs,cpp,c,py,nestjs,react,nextjs,vite,tailwind,nodejs,prisma,postgres,mysql,html,css,vercel,railway,cloudinary,figma,git,github,vscode,visualstudio,postman,netlify" />
 </p>
+
+<h4 align="center">Otras herramientas:</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NetBeans_IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/PrimeNG-3F51B5?style=for-the-badge&logo=prime&logoColor=white" />
-</p>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadowfire4545&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img src="https://streak-stats.demolab.com?user=Shadowfire4545&theme=tokyonight" />
 </p>
 
 ---
