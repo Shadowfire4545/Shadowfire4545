@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola 👋, soy Santiago Ariel</h1>
-<h3 align="center">Desarrollador Full Stack | Técnico en Desarrollo de Software</h3>
+<h3 align="center">Desarrollador Full Stack | Ing. Desarrollo de Software</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="animated-dev" />
